@@ -1,4 +1,4 @@
-package codewars
+package _kyu
 
 import "strings"
 
