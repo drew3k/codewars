@@ -1,6 +1,8 @@
 package _kyu
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func Derive(coefficient, exponent int) string {
 	product := coefficient * exponent
