@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/drew3k/codewars)](https://goreportcard.com/report/github.com/drew3k/codewars)
 # CodeWars
 
 > This is the GitHub repository where I save copies of the katas I've completed
